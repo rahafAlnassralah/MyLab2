@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             Intent intent=new Intent(getApplicationContext(),MainActivity2.class);
             intent.putExtra("personName",s);
             startActivity(intent);
-            }
+            }//hi
 
 
         });
